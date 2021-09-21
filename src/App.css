@@ -1,0 +1,40 @@
+.containerChat{
+    display: flex;
+    flex-direction: column;  
+
+}
+
+p1{
+    color: red;
+}
+
+.chatField{
+    outline: 5px solid rgb(0, 0, 0);
+    width: 500px;
+    height: 500px;
+    overflow: auto;
+}
+
+.inputField{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+    height: 150px;
+    outline: 5px solid rgb(0, 0, 0);
+}
+
+.message{
+    width: 85%;
+    height: 30px;
+    
+}
+
+.submitMessage{
+    height: 30px;
+}
+
+.messageBot{
+    width: 85%;
+    height: 30px;
+}
