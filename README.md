@@ -1,1 +1,3 @@
-# ReactJS
+# GB React
+
+Lesson 2
